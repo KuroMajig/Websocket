@@ -2,7 +2,7 @@
 
 <h1>Hasil Simulasi Websocket berserta Kode HTML dan Javascript</h1>
 
-'''html
+'''
 <!DOCTYPE html>
 <html lang="en">
 
