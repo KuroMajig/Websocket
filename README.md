@@ -84,4 +84,7 @@ console.log('WebSocket server is running on ws://localhost:8080');
 ```
 
 <h3>Hasil Simulasi</h3>
-![Screenshot 2025-05-07 130540](https://github.com/user-attachments/assets/63adccfd-c6b1-459b-9f8b-18be9712ffdb)
+
+
+![Screenshot 2025-05-07 130540](https://github.com/user-attachments/assets/a41b7ebe-fabc-4785-b0e2-6d93ac3e124e)
+
